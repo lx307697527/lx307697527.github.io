@@ -1,6 +1,6 @@
 ## H2O
 
-[在线预览 View →](http://liaokeyu.com/)
+[在线预览 View →](https://lx307697527.github.io/)
 
 ![](assets/img/jekyll-theme-h2o-realhome.jpg)
 
@@ -93,10 +93,10 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
+title: '汉时明月的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
-url: 'http://liaokeyu.com' # 站点url 
+keyword: '汉时明月, 汉时明月的独立博客, 前端, 设计' # 网站关键词
+url: 'https://lx307697527.github.io/' # 站点url 
 baseurl: '/'
  
 # Build settings 
