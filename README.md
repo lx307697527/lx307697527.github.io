@@ -2,9 +2,6 @@
 
 [在线预览 View →](https://lx307697527.github.io/)
 
-![](assets/img/jekyll-theme-h2o-realhome.jpg)
-
-![](assets/img/jekyll-theme-h2o-realm.png)
 
 If you like this theme or using it, please give a ⭐️ for motivation ;)
 
@@ -12,11 +9,6 @@ If you like this theme or using it, please give a ⭐️ for motivation ;)
 
 ### Preview
 
-Using your smartphone to scan QR Code
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](assets/img/1494404591.png)
 
 ### Features 特性
 
@@ -56,7 +48,6 @@ Using your smartphone to scan QR Code
 
 点击右上角Fork按钮在你的Github上创建分支，或者```clone```到本地。
 
-``` git clone https://github.com/kaeyleo/jekyll-theme-H2O.git ```
 
 最后，在命令行输入 ```jekyll server``` 开启服务，就能在本地预览主题了。
 
@@ -144,7 +135,6 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 
 #### 侧边栏
 
-![](assets/img/jekyll-theme-h2o-sideBar.png)
 
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。 
 
@@ -154,14 +144,7 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 
 配置格式如下：
 
-```
-# SNS settings 配置社交网站url
-sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
-```
+
 
 sns属性可选参数：
 
@@ -185,13 +168,6 @@ Medium | `medium`
 
 首页侧边栏和文章页面底部都会显示你的个人简介
 
-```
-# Author 配置博主信息
-author: 'Jack'
-nickname: 'xx'
-bio: '程序员'
-avatar: 'assets/img/avatar.jpg'
-```
 
 #### 标签
 
